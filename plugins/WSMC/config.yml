@@ -1,0 +1,15 @@
+verbose: false
+websocket:
+  bind-address: ''
+  bind-port: 8000
+  external-scheme: http
+  external-domain: ''
+  external-port: 8000
+minecraft:
+  connect-address: localhost
+  connect-port: 58888
+  announce-on-join: true
+  allow-anonymous: true
+filter:
+  whitelist: []
+  blacklist: []
